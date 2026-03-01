@@ -23,8 +23,8 @@ $$Normalized Distance = \frac{Distance(Ear, Shoulder)}{Distance(Shoulder, Hip)}$
 
 ### 1. Clone this repository
 ```bash
-git clone [https://github.com/medha-47/PostureGuard-AI.git]
-   (https://github.com/medha-47/PostureGuard-AI.git)
+git clone [https://github.com/medha-47/PostureGuard-AI-ML.git]
+   
 ```
 
 ### 2️⃣ Install dependencies
