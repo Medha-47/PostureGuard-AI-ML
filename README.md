@@ -17,20 +17,24 @@ $$Normalized Distance = \frac{Distance(Ear, Shoulder)}{Distance(Shoulder, Hip)}$
 * **Desktop Notifications:** Sends an alert if you slouch for more than 30 seconds.
 * **Progress Tracking:** Saves every session to `posture_log.csv`.
 
-## Setup and Installation
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/medha-47/PostureGuard-AI.git]
-   (https://github.com/medha-47/PostureGuard-AI.git)
    
-2.Install dependencies:
-   ```bash
-   pip install -r requirements.txt
 
-3. Run the application:
-   ```bash
-   python app.py
+##  Setup and Installation
 
+### 1. Clone this repository
+```bash
+git clone [https://github.com/medha-47/PostureGuard-AI.git]
+   (https://github.com/medha-47/PostureGuard-AI.git)
+```
+
+### 2️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 3️⃣ Run the application
+```bash
+python app.py
+```
 
 
